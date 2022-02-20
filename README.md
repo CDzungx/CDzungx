@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hallo there 👋
+
+Currently "[deving](https://www.urbandictionary.com/define.php?term=Deving)" 4fun [website](https://www.cdzungx.tk/) and translating some projects.
 
 <!--
 **CDzungx/CDzungx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
