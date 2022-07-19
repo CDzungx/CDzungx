@@ -1,6 +1,6 @@
 ## Hallo there 👋
 
-### Currently "deving" a 4fun [website](https://www.cdzungx.tk/) and translating some projects 🐧.
+### Currently "deving" a 4fun [website](https://cdzungx.dev/) and translating some projects 🐧.
 ![VNF](https://i.imgur.com/b8SqaDs.png)
 
 <!--
